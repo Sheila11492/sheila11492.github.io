@@ -67,7 +67,7 @@ https://github.com/Sheila11492/Sheila11492-PrimeraPaginaWeb2021APWEB
 ## 📫 Contacto
 
 - 💼 LinkedIn:  
-  https://www.linkedin.com/in/sheila-francisco-gonzalez-175722399
+  https://www.linkedin.com/in/sheila-francisco-gonzález-175722399
 
 - 💻 GitHub:  
   https://github.com/Sheila11492

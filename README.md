@@ -55,6 +55,26 @@ Aplicación Android desarrollada en **Java** para la gestión y análisis de pel
 🔗 Repositorio:  
 https://github.com/Sheila11492/CineTracker
 
+### ⚡ SkillPulse
+Aplicación web desarrollada en **Python con Streamlit** para el seguimiento de
+**hábitos y productividad personal**, que permite registrar actividades diarias,
+visualizar gráficos de tiempo y energía, y generar insights automáticos.
+
+El proyecto incluye **dashboard interactivo**, tarjetas con listado de actividades
+y almacenamiento local en **SQLite**.
+
+**Tecnologías:**
+- Python 3
+- Streamlit
+- Pandas
+- Matplotlib
+- SQLite
+- HTML / CSS embebidos
+- Git & GitHub
+
+🔗 Repositorio:  
+https://github.com/Sheila11492/SkillPulse
+
 ---
 
 ### 🚗 Módulo Odoo – Alquiler de Vehículos

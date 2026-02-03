@@ -25,36 +25,6 @@ y la creación de **páginas web bien estructuradas y funcionales**.
 
 ## 📂 Proyectos destacados
 
-### ✅ TaskFlow Web
-Aplicación web desarrollada en **C# con ASP.NET Core MVC** para la gestión de
-**proyectos y tareas personales**, pensada para llevar un control claro del
-estado, progreso y organización del trabajo.
-
-El proyecto sigue una **arquitectura MVC**, utiliza **Entity Framework Core**
-y una base de datos **SQLite**, e incluye un **dashboard** con métricas
-principales.
-
-**Tecnologías:**
-- C#
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQLite
-- HTML, CSS, Bootstrap
-
-🔗 Repositorio:  
-https://github.com/Sheila11492/TaskFlowWeb
-
-### 🎬 CineTracker
-Aplicación Android desarrollada en **Java** para la gestión y análisis de películas y series.
-
-**Tecnologías:**
-- Java
-- Android Studio
-- SQLite
-
-🔗 Repositorio:  
-https://github.com/Sheila11492/CineTracker
-
 ### ⚡ SkillPulse
 Aplicación web desarrollada en **Python con Streamlit** para el seguimiento de
 **hábitos y productividad personal**, que permite registrar actividades diarias,
@@ -74,6 +44,40 @@ y almacenamiento local en **SQLite**.
 
 🔗 Repositorio:  
 https://github.com/Sheila11492/SkillPulse
+
+---
+
+### ✅ TaskFlow Web
+Aplicación web desarrollada en **C# con ASP.NET Core MVC** para la gestión de
+**proyectos y tareas personales**, pensada para llevar un control claro del
+estado, progreso y organización del trabajo.
+
+El proyecto sigue una **arquitectura MVC**, utiliza **Entity Framework Core**
+y una base de datos **SQLite**, e incluye un **dashboard** con métricas
+principales.
+
+**Tecnologías:**
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQLite
+- HTML, CSS, Bootstrap
+
+🔗 Repositorio:  
+https://github.com/Sheila11492/TaskFlowWeb
+
+---
+
+### 🎬 CineTracker
+Aplicación Android desarrollada en **Java** para la gestión y análisis de películas y series.
+
+**Tecnologías:**
+- Java
+- Android Studio
+- SQLite
+
+🔗 Repositorio:  
+https://github.com/Sheila11492/CineTracker
 
 ---
 
